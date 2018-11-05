@@ -1,0 +1,14 @@
+/.next
+/.npmrc
+/*.log
+/build
+/node_modules
+.eslintcache
+cache
+circle-output
+.DS_Store
+*~
+*.old
+/out
+/dist
+/coverage
